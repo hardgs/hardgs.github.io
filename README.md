@@ -1,1 +1,0 @@
-# hardgs.github.io
