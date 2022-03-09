@@ -1,20 +1,23 @@
 body{
     margin: 0;
+    background-color: rgba(10, 10, 10, 0.733);
 }
 #me{
     top:0;
     list-style-type: none;
     margin: 0;
-    background-color: black;
+    background-color: rgb(26, 24, 24);
     overflow: hidden;
     padding: 0;
 }
 #me li{
     float: left;
+    padding: 0 10px 0 10px;
 }
 #me li a{
     color: white;
     display: block;
+    font-size: 170%;
     text-decoration: none;
     text-align: center;
     padding: 10px;
@@ -23,5 +26,20 @@ body{
     color: white;
     display: block;
     text-align: center;
+    font-size: 170%;
     padding: 10px;
+}
+div.fr{
+    background-color: rgb(54, 49, 49);
+    text-align: center;
+    color: white;
+    font-size: 150%;
+}
+#giti13{
+    font-size: 300%;
+    text-align: center;
+    color: white;
+}
+#gt78{
+    text-align: center;
 }
