@@ -9,6 +9,7 @@ body{
     background-color: rgb(26, 24, 24);
     overflow: hidden;
     padding: 0;
+    position: sticky;
 }
 #me li{
     float: left;
@@ -33,9 +34,8 @@ div.fr{
     background-color: rgb(54, 49, 49);
     text-align: center;
     color: white;
-    border-radius: 10px;
-    width: 49%;
-    font-size: 150%;
+    overflow: hidden;
+    border-radius: 10px;    font-size: 150%;
 }
 #giti13{
     font-size: 300%;
@@ -53,4 +53,10 @@ div.fr{
 }
 #me li a{
     display: none;
+}
+.ns{
+    border-style:solid;
+    border-top: 5px;
+    border-color:red;
+    margin-bottom: 5px;
 }
