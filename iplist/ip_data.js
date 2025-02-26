@@ -135,23 +135,23 @@
     },
     {
       "stream": "/4ufamily/",
-      "out": "http://familyhls.4utv.live/hls/"
+      "out": "http://hhfamilyhls.4utv.live/hls/"
     },
     {
       "stream": "/homeplus/",
-      "out": "http://homeplushls.wns.live/hls/"
+      "out": "http://hhhomeplushls.wns.live/hls/"
     },
     {
       "stream": "/avatvnetwork/",
-      "out": "http://familyhls.avatv.live/hls/"
+      "out": "http://hhfamilyhls.avatv.live/hls/"
     },
     {
       "stream": "/fx2hd/",
-      "out": "http://toonixhls.wns.live/hls/"
+      "out": "http://hhtoonixhls.wns.live/hls/"
     },
     {
       "stream": "/fx1hd/",
-      "out": "http://fxtvhls.wns.live/hls/"
+      "out": "http://hhfxtvhls.wns.live/hls/"
     },
     {
       "stream": "/khaterehtv/",
