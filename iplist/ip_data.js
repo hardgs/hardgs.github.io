@@ -25,7 +25,7 @@
     },
     {
       "name": "SpaceToon",
-      "stream": "spacetoon/index.m3u8"
+      "stream": "spacetoon/playlist.m3u8"
     },
     {
       "name": "Majid TV",
@@ -111,7 +111,7 @@
     },
     {
       "stream": "/spacetoon/",
-      "out": "http://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/"
+      "out": "https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/"
     },
     {
       "stream": "/majid/",
